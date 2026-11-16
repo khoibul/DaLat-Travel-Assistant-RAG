@@ -66,7 +66,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/khoibul/DaLat-Travel-Assistant-RAG.git
-cd Practice03_TravelAssistant
+cd DaLat-Travel-Assistant-RAG
 ```
 
 Create a virtual environment:
