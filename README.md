@@ -3,7 +3,7 @@
 ## 1. Project Overview
 
 **Student ID:** 25127203  
-**Project:** Practice 03 – Travel Assistant with RAG  
+**Project:** SIGN-IN TRAVEL ASSISTANT WITH RAG CHAT  
 **Destination:** Da Lat, Vietnam
 
 Da Lat Travel Assistant is a Streamlit-based chatbot that helps users discover attractions, local food, and travel experiences in Da Lat.
@@ -65,7 +65,7 @@ Streamlit displays user questions, generated answers, retrieved knowledge entrie
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/khoibul/DaLat-Travel-Assistant-RAG.git
 cd Practice03_TravelAssistant
 ```
 
