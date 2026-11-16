@@ -215,6 +215,6 @@ ChatGPT was used to support:
 
 ## 9. Demo Video
 
-**Video Link:** `<ADD_VIDEO_LINK_HERE>`
+**Video Link:** `https://drive.google.com/file/d/1RydabEKzVSUZzbbBWsv4d8XcgwdNRCfd/view?usp=sharing`
 
 The demonstration includes authentication, RAG question answering, retrieved source inspection, Computational Thinking analysis, and testing results.
