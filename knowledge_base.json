@@ -1,0 +1,202 @@
+[
+    {
+        "id": "G01",
+        "title": "Xuan Huong Lake",
+        "text": "Xuan Huong Lake is a central landmark in Da Lat. Visitors can walk along the lakeside, enjoy the scenery, take photographs, and explore nearby attractions. The lake is an important part of the city's landscape and daily activities.",
+        "source": "https://vietnam.travel/place-to-go/south-central-coast-central-highlands/dalat/",
+        "category": "lake",
+        "tags": [
+            "nature",
+            "sightseeing",
+            "walking",
+            "photography"
+        ]
+    },
+    {
+        "id": "G02",
+        "title": "Lam Vien Square",
+        "text": "Lam Vien Square is a public square located near Xuan Huong Lake in central Da Lat. It is known for its distinctive architectural structures, including a wild sunflower-shaped building and an artichoke-shaped building. Visitors often come here for sightseeing and photography.",
+        "source": "https://dalat.vn/en/places",
+        "category": "landmark",
+        "tags": [
+            "architecture",
+            "sightseeing",
+            "photography",
+            "city center"
+        ]
+    },
+    {
+        "id": "G03",
+        "title": "Da Lat Central Market",
+        "text": "Da Lat Central Market is a busy commercial area in the city center. Visitors can find fresh vegetables, fruits, flowers, clothing, local food, dried fruits, coffee, and artichoke tea. It is a popular place to experience local shopping and food culture.",
+        "source": "https://vietnam.travel/things-to-do/8-things-to-do-in-dalat/",
+        "category": "market",
+        "tags": [
+            "shopping",
+            "local food",
+            "fruits",
+            "vegetables",
+            "souvenirs"
+        ]
+    },
+    {
+        "id": "G04",
+        "title": "Da Lat Flower Garden",
+        "text": "Da Lat Flower Garden is a destination for visitors interested in flowers and ornamental plants. The garden displays various flowers and plants cultivated in Da Lat. Flower-related events and festivals are also part of the city's tourism identity.",
+        "source": "https://dalat.vn/en/introduction",
+        "category": "garden",
+        "tags": [
+            "flowers",
+            "nature",
+            "plants",
+            "photography"
+        ]
+    },
+    {
+        "id": "G05",
+        "title": "Da Lat Railway Station",
+        "text": "Da Lat Railway Station is a historic railway landmark known for its distinctive architecture. Visitors can explore the station and take a tourist train journey toward Trai Mat. The journey offers views of the surrounding landscape and provides access to Linh Phuoc Pagoda.",
+        "source": "https://vietnam.travel/place-to-go/south-central-coast-central-highlands/dalat/",
+        "category": "historical site",
+        "tags": [
+            "history",
+            "architecture",
+            "train",
+            "sightseeing"
+        ]
+    },
+    {
+        "id": "G06",
+        "title": "Valley of Love",
+        "text": "The Valley of Love is a popular tourist attraction in Da Lat, located northeast of the city center. It is known for its romantic scenery and landscaped surroundings. Visitors can explore the gardens and enjoy outdoor sightseeing activities.",
+        "source": "https://dalat.vn/en/places",
+        "category": "tourist attraction",
+        "tags": [
+            "romantic",
+            "gardens",
+            "nature",
+            "sightseeing"
+        ]
+    },
+    {
+        "id": "G07",
+        "title": "Tuyen Lam Lake",
+        "text": "Tuyen Lam Lake is a large scenic lake surrounded by pine forests and natural landscapes. Visitors can enjoy the peaceful atmosphere, explore the surrounding area, and participate in activities such as boating and kayaking.",
+        "source": "https://vietnam.travel/things-to-do/8-things-to-do-in-dalat/",
+        "category": "lake",
+        "tags": [
+            "nature",
+            "pine forest",
+            "kayaking",
+            "boating",
+            "relaxation"
+        ]
+    },
+    {
+        "id": "G08",
+        "title": "Datanla Waterfall",
+        "text": "Datanla Waterfall is a natural attraction near Da Lat. The surrounding forest and mountainous terrain make it suitable for outdoor adventures. Visitors can explore the waterfall area and participate in adventure activities such as canyoning with local guides.",
+        "source": "https://vietnam.travel/things-to-do/8-things-to-do-in-dalat/",
+        "category": "waterfall",
+        "tags": [
+            "nature",
+            "waterfall",
+            "adventure",
+            "canyoning"
+        ]
+    },
+    {
+        "id": "G09",
+        "title": "Langbiang Mountain",
+        "text": "Langbiang Mountain is a well-known natural destination near Da Lat. The mountain is part of the Langbiang Plateau and offers opportunities for hiking, mountain biking, and enjoying highland scenery. Visitors can explore its trails and surrounding landscapes.",
+        "source": "https://vietnam.travel/things-to-do/8-things-to-do-in-dalat/",
+        "category": "mountain",
+        "tags": [
+            "hiking",
+            "mountain",
+            "nature",
+            "mountain biking"
+        ]
+    },
+    {
+        "id": "G10",
+        "title": "Bidoup Nui Ba National Park",
+        "text": "Bidoup Nui Ba National Park is a large protected natural area near Da Lat. Visitors interested in nature can participate in trekking, camping, and birdwatching. The park is known for its forest landscapes and biodiversity.",
+        "source": "https://vietnam.travel/things-to-do/8-things-to-do-in-dalat/",
+        "category": "national park",
+        "tags": [
+            "forest",
+            "trekking",
+            "camping",
+            "birdwatching",
+            "wildlife"
+        ]
+    },
+    {
+        "id": "G11",
+        "title": "Linh Phuoc Pagoda",
+        "text": "Linh Phuoc Pagoda is a Buddhist temple located in Trai Mat near Da Lat. It is known for its elaborate mosaic decorations. Visitors can reach the area by taking a tourist train from Da Lat Railway Station and explore the temple as part of a sightseeing trip.",
+        "source": "https://vietnam.travel/place-to-go/south-central-coast-central-highlands/dalat/",
+        "category": "temple",
+        "tags": [
+            "religion",
+            "architecture",
+            "mosaic",
+            "train",
+            "culture"
+        ]
+    },
+    {
+        "id": "G12",
+        "title": "Domaine de Marie Church",
+        "text": "Domaine de Marie is a Catholic church and convent in Da Lat. It is an example of the city's historical architecture and is a popular destination for visitors interested in cultural heritage and architecture.",
+        "source": "https://vietnam.travel/things-to-do/8-things-to-do-in-dalat/",
+        "category": "church",
+        "tags": [
+            "religion",
+            "architecture",
+            "history",
+            "culture"
+        ]
+    },
+    {
+        "id": "G13",
+        "title": "Banh Can",
+        "text": "Banh Can is a popular food in Da Lat, commonly enjoyed for breakfast or as a light snack. These small rice cakes are grilled over a charcoal brazier and often topped with quail eggs or duck eggs. They are commonly served with dipping sauce.",
+        "source": "https://vietnam.travel/things-to-do/eating-dalat-chef-peter/",
+        "category": "local food",
+        "tags": [
+            "food",
+            "breakfast",
+            "rice cake",
+            "street food"
+        ]
+    },
+    {
+        "id": "G14",
+        "title": "Da Lat Banh Mi Xiu Mai",
+        "text": "Banh Mi Xiu Mai is a popular food experience in Da Lat. It consists of a warm baguette served with a bowl of hot pork meatball broth, shredded papaya, and fresh herbs. It is especially enjoyable in Da Lat's cool highland weather.",
+        "source": "https://vietnam.travel/things-to-do/eating-dalat-chef-peter/",
+        "category": "local food",
+        "tags": [
+            "food",
+            "street food",
+            "bread",
+            "pork meatballs"
+        ]
+    },
+    {
+        "id": "G15",
+        "title": "Da Lat Coffee Culture",
+        "text": "Coffee is an important part of Da Lat's agricultural and cultural identity. The region is known for growing Arabica coffee. Visitors can explore coffee farms, learn about harvesting and processing, and experience local coffee culture at cafes and roasteries.",
+        "source": "https://vietnam.travel/vi/things-to-do/8-things-to-do-in-dalat/",
+        "category": "experience",
+        "tags": [
+            "coffee",
+            "Arabica",
+            "agriculture",
+            "farm tour",
+            "local culture"
+        ]
+    }
+]
